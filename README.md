@@ -1,3 +1,3 @@
 # Repositório ultima
 
-- Aula GIT
+- Atualizando funcionalidades 
